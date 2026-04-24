@@ -1,11 +1,11 @@
-# HR Workflow Designer
+# HR Workflow
 
-### Tredence Studio — Full Stack Engineering Intern Case Study
+### Tredence — Full Stack Engineering Intern Case Study
 This project is a visual tool to design and simulate leave approval.
 ## ■ Live Demo
 ■ [Click here to run live](https://stackblitz.com/~/github.com/jothir2022-lgtm/-HR-workflow-designer)
 ## ■ Repository
-■ [View Source Code](https://github.com/jothir2022-lgtm/-HR-workflow-designer/tree/main)
+■ [View Repository](https://github.com/jothir2022-lgtm/-HR-workflow-designer/tree/main)
 
 ## 🚀 Features
 
